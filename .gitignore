@@ -1,0 +1,4 @@
+*.xls
+*.xlsx
+*.code-workspace
+__pycache__
