@@ -1,7 +1,7 @@
 # Import different analysis objectives or modules
-import descriptive_analysis
+import obj1
 # import obj_1_analysis
 
 
 # Run the analysis modules
-descriptive_analysis.run()
+obj1.run()
